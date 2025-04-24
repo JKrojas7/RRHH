@@ -13,7 +13,9 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
+
 //http://localhost:8080/rrhh-app
+
 @RequestMapping("rrhh-app")
 @CrossOrigin(value = "http://localhost:3000")
 
